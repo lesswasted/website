@@ -1,46 +1,21 @@
 project:
   type: website
-  render:
-    - index.qmd
-    - products.qmd
-    - news/index.qmd
-    - news/*.qmd
 
 website:
-  title: "Less Wasted"
-  site-url: "https://lesswasted.nl"
-  repo-url: "https://github.com/activeanalytics-nl/lesswasted-website/"
-  favicon: images/favicon.drawio.png
-  twitter-card: true
-  page-navigation: false
-  search: false   # optional: false makes sense for a 2-page site
-
-  page-footer:
-    background: "#F6F5F3"
-    center: © 2026 Less Wasted  &middot; Made with {{< fa brands r-project >}} and 
-      [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) 
-
+  title: "website"
   navbar:
-    title: false
-    logo: images/logo.drawio.png
-    logo-alt: "Less Wasted"
-    background: "#F6F5F3"
     left:
       - href: index.qmd
         text: Home
-      - href: products.qmd
-        text: Products   # or whatever label fits
-      - href: news/index.qmd
-        text: News
+      - about.qmd
 
 format:
   html:
     theme:
-      - styles/custom.scss
-      - yeti
-    mainfont: Nunito Sans
-    toc: false          # no need for TOC on short pages
-    link-external-newwindow: true
-    smooth-scroll: true
-    resources:
-      - images
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
