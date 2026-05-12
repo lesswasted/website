@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "news/2025-04-new-stockist.html",
+    "href": "news/2025-04-new-stockist.html",
+    "title": "Now stocking at Café Broei",
+    "section": "",
+    "text": "Longer text here if you want a full story page…"
+  },
+  {
+    "objectID": "products.html",
+    "href": "products.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "products.html#quarto",
+    "href": "products.html#quarto",
+    "title": "Untitled",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "products.html#running-code",
+    "href": "products.html#running-code",
+    "title": "Untitled",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Less Wasted",
+    "section": "",
+    "text": "Welcome to the Masiello Research Group\n\n\nLight-matter theory at the nanoscale\n\n\n\n\n\n\n\nLess Wasted makes fermented soft drinks for people who want something better to drink, without overthinking it. Not overloaded with sugar, not full of artificial sweeteners, and definitely not trying to copy alcohol.\nInstead of mixing ingredients together at the end, we start at the beginning. Our drinks are brewed and slowly fermented, which means the sugar is mostly transformed into flavour, natural bubbles and all the complexity that makes a drink actually interesting.\nWe work with organic ingredients, source locally where we can, and often use things that would normally be thrown away, like fruit peels, and turn them into something genuinely good. The result is a drink that feels fresh, a bit different, and easy to come back to."
+  },
+  {
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "News",
+    "section": "",
+    "text": "Now stocking at Café Broei\n\n\nOur kombucha is now available at Café Broei in Utrecht.\n\n\n\n\n\nApr 10, 2025\n\n\n\n\n\nNo matching items"
+  }
+]
