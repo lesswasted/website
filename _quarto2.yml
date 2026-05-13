@@ -1,0 +1,41 @@
+project:
+  type: website
+  render:
+    - index.qmd
+    - products.qmd   # rename to whatever your second page is
+
+website:
+  title: "Less Wasted"
+  site-url: "https://lesswasted.nl"
+  repo-url: "https://github.com/activeanalytics-nl/lesswasted-website/"
+  favicon: images/favicon.drawio.png
+  twitter-card: true
+  page-navigation: false
+  search: false   # optional: false makes sense for a 2-page site
+
+  page-footer:
+    background: "#F6F5F3"
+    center: © 2026 Less Wasted &middot; Kombucha & Water Kefir
+
+  navbar:
+    title: false
+    logo: images/logo.drawio.png
+    logo-alt: "Less Wasted"
+    background: "#F6F5F3"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: products.qmd
+        text: Products   # or whatever label fits
+
+format:
+  html:
+    theme:
+      - styles/custom.scss
+      - yeti
+    mainfont: Nunito Sans
+    toc: false          # no need for TOC on short pages
+    link-external-newwindow: true
+    smooth-scroll: true
+    resources:
+      - images
