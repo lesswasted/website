@@ -6,6 +6,8 @@ project:
     - products.qmd
     - news/index.qmd
     - news/*.qmd
+  post-render:
+    - touch docs/.nojekyll
 
 website:
   title: "Less Wasted"
