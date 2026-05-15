@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "news/2025-04-new-stockist.html",
-    "href": "news/2025-04-new-stockist.html",
-    "title": "Now stocking at Café Broei",
+    "objectID": "news/2025-05-new-stockist.html",
+    "href": "news/2025-05-new-stockist.html",
+    "title": "Launching soon",
     "section": "",
-    "text": "Longer text here if you want a full story page…"
+    "text": "Final tweaks to the recipes are taking place and drinks will be available in a Utrecht Cafe near you soon."
   },
   {
-    "objectID": "products.html#tepache",
-    "href": "products.html#tepache",
-    "title": "Drinks",
-    "section": "Tepache",
-    "text": "Tepache\nA traditional Mexican drink made from the peel of pineapple"
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "News",
+    "section": "",
+    "text": "Launching soon\n\n\nLaunching soon.\n\n\n\n\n\nMay 10, 2025\n\n\n\n\n\n\n\nSunshine in your drink\n\n\nUsing abundent energy to make the tea\n\n\n\n\n\nApr 10, 2025\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -21,10 +21,17 @@
     "text": "Less Wasted\n\n\nLess wastage\n\n\n\n\n\n\n\nLess Wasted makes fermented soft drinks for people who want something better to drink, without overthinking it. Not overloaded with sugar, not full of artificial sweeteners, and definitely not trying to copy alcohol.\nInstead of mixing ingredients together at the end, we start at the beginning. Our drinks are brewed and slowly fermented, which means the sugar is mostly transformed into flavour, natural bubbles and all the complexity that makes a drink actually interesting.\nWe work with organic ingredients, source locally where we can, and often use things that would normally be thrown away, like fruit peels, and turn them into something genuinely good. The result is a drink that feels fresh, a bit different, and easy to come back to."
   },
   {
-    "objectID": "news/index.html",
-    "href": "news/index.html",
-    "title": "News",
+    "objectID": "products.html#tepache",
+    "href": "products.html#tepache",
+    "title": "Drinks",
+    "section": "Tepache",
+    "text": "Tepache\nA traditional Mexican drink made from the peel of pineapple"
+  },
+  {
+    "objectID": "news/2025-05-green-energy.html",
+    "href": "news/2025-05-green-energy.html",
+    "title": "Sunshine in your drink",
     "section": "",
-    "text": "Now stocking at Café Broei\n\n\nOur kombucha is now available at Café Broei in Utrecht.\n\n\n\n\n\nApr 10, 2025\n\n\n\n\n\nNo matching items"
+    "text": "Kombucha needs green tea. Boiling tens of litres uses a significant amount of energy which adds to our overheads. In Utrecht, there is plentiful supply of solar energy from locally produced photovoltaic panels (PV) installed on locals roofs and from the Utrecht solar farm. Taking care to only boil this water on the days not only means we use low carbon energy, but we help the local grid which struggles to make use of all this cheap energy. As a result we even get paid for this. Anyone can make use of this cheap electricity and help Utrecht burn less gas."
   }
 ]
