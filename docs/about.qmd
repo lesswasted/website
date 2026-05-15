@@ -1,5 +1,0 @@
----
-title: "About"
----
-
-[](images/flyer.png)

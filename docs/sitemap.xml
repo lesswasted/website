@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lesswasted.nl/news/2025-05-new-stockist.html</loc>
-    <lastmod>2026-05-15T14:31:10.350Z</lastmod>
+    <loc>https://lesswasted.nl/research/index.html</loc>
+    <lastmod>2026-04-28T10:01:39.940Z</lastmod>
   </url>
   <url>
-    <loc>https://lesswasted.nl/news/index.html</loc>
-    <lastmod>2026-04-28T10:01:32.579Z</lastmod>
+    <loc>https://lesswasted.nl/news/2025-05-green-energy.html</loc>
+    <lastmod>2026-05-15T14:30:44.623Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lesswasted.nl/about.html</loc>
+    <lastmod>2026-05-15T18:39:23.278Z</lastmod>
   </url>
   <url>
     <loc>https://lesswasted.nl/index.html</loc>
@@ -17,7 +21,11 @@
     <lastmod>2026-05-15T08:03:59.663Z</lastmod>
   </url>
   <url>
-    <loc>https://lesswasted.nl/news/2025-05-green-energy.html</loc>
-    <lastmod>2026-05-15T14:30:44.623Z</lastmod>
+    <loc>https://lesswasted.nl/news/index.html</loc>
+    <lastmod>2026-04-28T10:01:32.579Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lesswasted.nl/news/2025-05-new-stockist.html</loc>
+    <lastmod>2026-05-15T14:31:10.350Z</lastmod>
   </url>
 </urlset>
