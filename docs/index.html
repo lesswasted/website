@@ -164,7 +164,7 @@ ul.task-list li input[type="checkbox"] {
   
   .step-header {
   display: flex;
-  align-items: left;
+  align-items: center;
   gap: 22px;
 }
 
@@ -257,7 +257,7 @@ ul.task-list li input[type="checkbox"] {
 
   .why-grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
     gap: 16px;
   }
 
@@ -265,7 +265,7 @@ ul.task-list li input[type="checkbox"] {
     background: white;
     border: 2px solid var(--border);
     border-radius: 12px;
-    width: 350px;
+    max-width: 350px;
     padding: 10px 16px;
     text-align: center;
     text-decoration: none;
@@ -299,10 +299,9 @@ ul.task-list li input[type="checkbox"] {
 
   .why-card-desc {
     font-size: 14px;
-    color: "black";
+    color: black;
     line-height: 1.8;
     font-size: 14px;
-    color: "black";
     letter-spacing: 0.10em;
     font-weight: 550;
     max-width: 280px;
@@ -350,44 +349,37 @@ ul.task-list li input[type="checkbox"] {
     .step-arrow { margin-top: 48px; }
   }
 
-  /* mobile: single column, no arrows */
+ /* mobile: single column, no arrows */
   @media (max-width: 480px) {
     .lw-section { padding: 32px 16px 48px; }
 
     .steps-grid {
       grid-template-columns: 1fr;
       grid-template-rows: auto;
-      gap: 8px;
-      max-width: 340px;
+      gap: 12px;
+      max-width: 360px;
     }
 
-    /* show all cards, hide all arrows */
-    .step-card { grid-column: 1 !important; grid-row: auto !important; }
-    .step-arrow { display: none; }
-
     .step-card {
-      flex-direction: row;
-      text-align: left;
-      gap: 16px;
-      padding: 14px 12px;
+      grid-column: 1 !important;
+      grid-row: auto !important;
+      flex-direction: column;     /* stay stacked, don't squash into a row */
+      align-items: center;
+      text-align: center;
+      gap: 8px;
+      padding: 18px 14px;
       background: white;
       border: 1px solid var(--border);
       border-radius: 12px;
     }
 
-    .step-emoji { font-size: 38px; margin-bottom: 0; flex-shrink: 0; }
+    .step-arrow { display: none; }
+    .step-header { justify-content: center; }   /* number + title centred */
+    .step-emoji { font-size: 40px; margin-bottom: 0; }
+    .step-desc  { max-width: none; }            /* use the full card width */
 
-    .step-number { position: absolute; margin: 0; }
-
-    .step-content { display: flex; flex-direction: column; }
-
-    .step-desc { max-width: none; }
-
-    .why-grid {
-      grid-template-columns: repeat(2, 1fr);
-    }
-
-    .why-card { padding: 16px 12px; }
+    .why-grid { grid-template-columns: 1fr; }   /* one drink card per row */
+    .why-card { width: 100%; max-width: none; padding: 16px 12px; }
   }
 </style>
 
