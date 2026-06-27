@@ -37,7 +37,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-aabbef2de13a67f08a0c814b12a90533.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-3d158d8d9f8e3142bcefecb099901d15.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -56,9 +56,10 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
-<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&amp;family=Nunito+Sans:wght@300;400;600&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Albert+Sans:ital,wght@0,100..900;1,100..900&amp;family=Karla:ital,wght@0,200..800;1,200..800&amp;family=Patrick+Hand&amp;display=swap" rel="stylesheet">
 
 
+<link rel="stylesheet" href="styles/custom.scss">
 <meta name="twitter:title" content="– Less Wasted">
 <meta name="twitter:card" content="summary">
 </head>
@@ -98,7 +99,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
+<span class="menu-text">Who we are</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -118,7 +119,7 @@ ul.task-list li input[type="checkbox"] {
 
 <style>
   :root {
-    --cream:   #f7f3ec;
+    --cream:   #fff8f4;
     --green:   #5a7a52;
     --green-light: #8aab80;
     --yellow:  #e8c84a;
@@ -133,11 +134,13 @@ ul.task-list li input[type="checkbox"] {
 
   .lw-section {
     background: var(--cream);
-    font-family: 'Nunito Sans', sans-serif;
+    font-family: "Patrick Hand", cursive;
     color: var(--text);
     padding: 48px 24px 64px;
     min-height: 100vh;
   }
+  
+ 
 
   /* ── grid of 6 steps ── */
   .steps-grid {
@@ -158,6 +161,12 @@ ul.task-list li input[type="checkbox"] {
     padding: 16px 12px;
     animation: fadeUp 0.5s ease both;
   }
+  
+  .step-header {
+  display: flex;
+  align-items: left;
+  gap: 22px;
+}
 
   .step-card:nth-child(1)  { animation-delay: 0.05s; }
   .step-card:nth-child(3)  { animation-delay: 0.15s; }
@@ -172,18 +181,18 @@ ul.task-list li input[type="checkbox"] {
   }
 
   .step-number {
-    width: 28px;
-    height: 28px;
+    width: 35px;
+    height: 35px;
     border-radius: 50%;
     background: var(--green);
     color: white;
-    font-family: 'Nunito', sans-serif;
-    font-weight: 800;
-    font-size: 13px;
+    font-family: "Patrick Hand", cursive;
+    font-weight: 400;
+    font-size: 30px;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     flex-shrink: 0;
   }
 
@@ -195,10 +204,10 @@ ul.task-list li input[type="checkbox"] {
   }
 
   .step-title {
-    font-family: 'Nunito', sans-serif;
-    font-weight: 800;
-    font-size: 13px;
-    letter-spacing: 0.06em;
+    font-family: "Patrick Hand", cursive;
+    font-weight: 600;
+    font-size: 22px;
+    letter-spacing: 0.12em;
     text-transform: uppercase;
     color: var(--text);
     line-height: 1.3;
@@ -206,11 +215,12 @@ ul.task-list li input[type="checkbox"] {
   }
 
   .step-desc {
-    font-size: 12.5px;
-    color: var(--muted);
-    line-height: 1.6;
-    font-weight: 400;
-    max-width: 160px;
+    font-size: 14px;
+    color: "black";
+    letter-spacing: 0.10em;
+    line-height: 1.8;
+    font-weight: 550;
+    max-width: 280px;
   }
 
   /* ── arrows between cards ── */
@@ -219,9 +229,9 @@ ul.task-list li input[type="checkbox"] {
     align-items: center;
     justify-content: center;
     padding: 0 4px;
-    margin-top: 56px; /* align with icon centre roughly */
+    margin-top: 220px; /* align with icon centre roughly */
     color: var(--arrow);
-    font-size: 22px;
+    font-size: 60px;
     opacity: 0.7;
   }
 
@@ -234,14 +244,15 @@ ul.task-list li input[type="checkbox"] {
   }
 
   .why-title {
-    font-family: 'Nunito', sans-serif;
-    font-weight: 800;
-    font-size: 11px;
-    letter-spacing: 0.2em;
+    font-family: "Patrick Hand", cursive;
+    font-weight: 600;
+    font-size: 42px;
+    letter-spacing: 0.12em;
     text-transform: uppercase;
-    color: var(--muted);
+    color: var(--text);
+    line-height: 1.3;
     text-align: center;
-    margin-bottom: 28px;
+    margin-bottom: 8px;
   }
 
   .why-grid {
@@ -252,10 +263,12 @@ ul.task-list li input[type="checkbox"] {
 
   .why-card {
     background: white;
-    border: 1px solid var(--border);
+    border: 2px solid var(--border);
     border-radius: 12px;
-    padding: 20px 16px;
+    width: 350px;
+    padding: 10px 16px;
     text-align: center;
+    text-decoration: none;
     transition: transform 0.2s ease, box-shadow 0.2s ease;
   }
 
@@ -267,31 +280,41 @@ ul.task-list li input[type="checkbox"] {
   .why-emoji {
     font-size: 32px;
     margin-bottom: 10px;
+    margin: 0 auto 10px;
+     width: 150px;
+     height: auto;  
     display: block;
   }
 
   .why-card-title {
-    font-family: 'Nunito', sans-serif;
-    font-weight: 800;
-    font-size: 11px;
+    font-family: "Patrick Hand", cursive;
+    font-weight: 600;
+    font-size: 28px;
     letter-spacing: 0.08em;
     text-transform: uppercase;
     color: var(--text);
     margin-bottom: 6px;
+    max-width: 500px;
   }
 
   .why-card-desc {
-    font-size: 11.5px;
-    color: var(--muted);
-    line-height: 1.5;
+    font-size: 14px;
+    color: "black";
+    line-height: 1.8;
+    font-size: 14px;
+    color: "black";
+    letter-spacing: 0.10em;
+    font-weight: 550;
+    max-width: 280px;
+    text-align: center;
   }
 
   /* ── tagline ── */
   .tagline {
     text-align: center;
     margin-top: 40px;
-    font-family: 'Nunito', sans-serif;
-    font-weight: 800;
+    font-family: "Patrick Hand", cursive;
+    font-weight: 400;
     font-size: 11px;
     letter-spacing: 0.2em;
     text-transform: uppercase;
@@ -370,52 +393,73 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="lw-section">
 
+<div class="brand-hero">
+  <h1 class="brand-title">
+    LESS WASTED<img class="brand-leaf" src="images/icons/leaf.png" alt="">
+  </h1>
+  <p class="brand-tagline">BETTER DRINKS. LESS WASTAGE</p>
+  <hr class="brand-rule">
+  <p class="brand-subtitle">Turning what's often wasted into delicious, low alcohol fermented drinks, so you get less wasted</p>
+</div>
+
+<div class="lw-section">
+
   <!-- ── 6 process steps ── -->
   <div class="steps-grid">
 
     <!-- step 1 -->
     <div class="step-card">
-      <div class="step-number">1</div>
-      <img class="step-emoji" src="images/icons/pineapple_peel.png" alt="Pineapple Peel">
-      <div class="step-title">We rescue<br>fruit peels</div>
-      <div class="step-desc">We rescue fresh organic fruit peels that would otherwise go to waste and ferment them into tasty, healthy drinks. In the case of lemon and lime peel this leaves a product that is also improved and can be used in dishes.</div>
-    </div>
+  <div class="step-header">
+    <div class="step-number">1</div>
+    <div class="step-title">We rescue<br>fruit peels</div>
+  </div>
+  <img class="step-emoji" src="images/icons/pineapple_peel.png" alt="Pineapple Peel">
+  <div class="step-desc">We rescue fresh organic fruit peels that would otherwise go to waste and ferment them into tasty, healthy drinks. In the case of lemon and lime peel this leaves a product that is also improved and can be used in dishes.</div>
+</div>
 
     <div class="step-arrow">→</div>
-
-    <!-- step 2 -->
+    
+     <!-- step 2 -->
     <div class="step-card">
-      <div class="step-number">2</div>
-      <img class="step-emoji" src="images/icons/jar.png" alt="Jar">
-      <div class="step-title">We ferment<br>naturally</div>
-      <div class="step-desc">We ferment in the traditional way with real cultures over many days, just like people have been doing for hundreds and even thousands of years. No shortcuts, or modified cultures. just real organic ingredients.</div>
-    </div>
+  <div class="step-header">
+    <div class="step-number">2</div>
+    <div class="step-title">We ferment<br>naturally</div>
+  </div>
+  <img class="step-emoji" src="images/icons/jar.png" alt="Pineapple Peel">
+  <div class="step-desc">We ferment in the traditional way with real cultures over many days, just like people have been doing for hundreds and even thousands of years. No shortcuts, or modified cultures. just real organic ingredients.</div>
+</div>
 
     <div class="step-arrow">→</div>
-
-    <!-- step 3 -->
+    
+     <!-- step 3 -->
     <div class="step-card">
-      <div class="step-number">3</div>
-      <img class="step-emoji" src="images/icons/bottle.png" alt="Bottle">
-      <div class="step-title">Full of flavour,<br>not sugar</div>
-      <div class="step-desc"> The sugar is mostly fermented away, creating depth, natural bubbles and complex flavours. Most of the drinks have &lt;1g/100ml of sugar. We use Demarera Sugar, which is less refined than most, retaining trace minerals such as Iron, Chromium, Calcium and Potassium. Not enough to meet your RDA but the cultures love it!</div>
-    </div>
+  <div class="step-header">
+    <div class="step-number">3</div>
+    <div class="step-title">Full of flavour,<br>not sugar</div>
+  </div>
+  <img class="step-emoji" src="images/icons/bottle.png" alt="Bottle">
+  <div class="step-desc">The sugar is mostly fermented away, creating depth, natural bubbles and complex flavours and &lt;0.2g/100ml of sugar. We use Demarera Sugar, which is less refined than most, retaining trace minerals such as Iron, Chromium, Calcium and Potassium. Not enough to meet your RDA but the cultures love it!</div>
+</div>
 
-    <!-- step 4 -->
+     <!-- step 4 -->
     <div class="step-card">
-      <div class="step-number">4</div>
-      <img class="step-emoji" src="images/icons/gut.png" alt="Gut">
-      <div class="step-title">Good for<br>your gut</div>
-      <div class="step-desc">Our drinks are naturally fermented and contain good bacteria that your gut will thank you for. They also produce their own CO2 negating the need to use artificially produced gas.</div>
-    </div>
+  <div class="step-header">
+    <div class="step-number">4</div>
+    <div class="step-title">Good for<br>your gut</div>
+  </div>
+  <img class="step-emoji" src="images/icons/gut.png" alt="Gut">
+  <div class="step-desc">Our drinks are naturally fermented and contain good bacteria that your gut will thank you for. They also produce their own CO2 negating the need to use artificially produced gas.</div>
+</div>
 
     <div class="step-arrow">→</div>
 
     <!-- step 5 -->
     <div class="step-card">
+    <div class="step-header">
       <div class="step-number">5</div>
-      <img class="step-emoji" src="images/icons/planet.png" alt="Planet">
       <div class="step-title">Better for<br>the planet</div>
+      </div>
+      <img class="step-emoji" src="images/icons/planet.png" alt="Planet">
       <div class="step-desc">Less waste, less sugar, less transport. More flavour, less impact.</div>
     </div>
 
@@ -423,37 +467,38 @@ ul.task-list li input[type="checkbox"] {
 
     <!-- step 6 -->
     <div class="step-card">
+    <div class="step-header">
       <div class="step-number">6</div>
-      <img class="step-emoji" src="images/icons/cheers.png" alt="Cheers">
       <div class="step-title">Made to be<br>enjoyed</div>
+      </div>
+      <img class="step-emoji" src="images/icons/cheers.png" alt="Cheers">
       <div class="step-desc">For everyday moments, good conversations and people who care about what they drink.</div>
     </div>
 
   </div>
-
-  <!-- ── why it matters ── -->
+  
+   <!-- ── why it matters ── -->
   <div class="why-section">
     <div class="why-title">The drinks</div>
     <div class="why-grid">
 
-      <a href="sustainability.html" class="why-card">
-  <img class="why-emoji" src="images/icons/pineapple_peel.png" alt="Less waste">
-  <div class="why-card-title">Tepache</div>
-  <div class="why-card-desc">A traditional Mexican drink which uses the naturally occuring yeasts on the peel as the culture. Mixed with cinnamon and cloves and using dark Mudscovado sugar, this brew has darker flavour and is super fizzy. Traditionally it is mixed with beer, but is equally at home with lime.
-  INGREDIENTS: </div>
+      <a href="drinks_kombucha_gt.html" class="why-card">
+  <img class="why-emoji" src="images/icons/kombucha.png" alt="Less waste">
+  <div class="why-card-title">Kombucha G&amp;T</div>
+  <div class="why-card-desc">Kombucha second fermented with Ginger and Turmeric.</div>
 </a>
 
-      <div class="why-card">
-        <img class="why-emoji" src="images/icons/pineapple_peel.png" alt="Less waste">
-        <div class="why-card-title">Kombucha G&amp;T</div>
-        <div class="why-card-desc">Green Tea Kombucha second fermented with fresh Ginger and Turmeric.</div>
-      </div>
+      <a href="drinks_tepache.html" class="why-card">
+        <img class="why-emoji" src="images/icons/tepache.png" alt="Less waste">
+        <div class="why-card-title">Tepache</div>
+        <div class="why-card-desc">Traditional Mexican fermented drink from the peel of organic pineapples</div>
+      </a>
 
-      <div class="why-card">
-        <img class="why-emoji" src="images/icons/pineapple_peel.png" alt="Less waste">
+      <a href="drinks_ginger_beer.html" class="why-card">
+        <img class="why-emoji" src="images/icons/ginger_beer.png" alt="Less waste">
         <div class="why-card-title">Boosted Ginger Beer</div>
-        <div class="why-card-desc">Live cultures and real ingredients.</div>
-      </div>
+        <div class="why-card-desc">Wild ginger beer second fermented with Water Kefir and Kombucha.</div>
+      </a>
 
     </div>
 
@@ -461,6 +506,7 @@ ul.task-list li input[type="checkbox"] {
   </div>
 
 </div>
+ 
 
 
 
@@ -888,5 +934,5 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<script src="site_libs/quarto-html/zenscroll-min.js"></script>
+</div><script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>
