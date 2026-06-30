@@ -18,7 +18,7 @@
     "href": "about.html",
     "title": "Less Wasted",
     "section": "",
-    "text": "Less Wasted\n\n\nFermented naturally low-alcohol drinks made in Utrecht\n\n\n\n\n\n\n\nLess Wasted makes fermented soft drinks for people who want something better to drink, without overthinking it. Not overloaded with sugar, not full of artificial sweeteners, and definitely not trying to copy alcohol.\nInstead of mixing ingredients together at the end, we start at the beginning. Our drinks are brewed and slowly fermented, which means the sugar is mostly transformed into flavour, natural bubbles and all the complexity that makes a drink actually interesting.\nWe work with organic ingredients, source locally where we can, and often use things that would normally be thrown away, like fruit peels, and turn them into something genuinely good. The result is a drink that feels fresh, a bit different, and easy to come back to.\nTo see what drinks are available click here."
+    "text": "Less Wasted\n\n\nFermented naturally low-alcohol drinks made in Utrecht\n\n\n\n\n\n\n\nLess Wasted makes fermented low alcohol drinks for people who want something better to drink, without overthinking it. Not overloaded with sugar, not full of artificial sweeteners, and definitely not “free” versions of other drinks.\nInstead of mixing ingredients together at the end, we start at the beginning. Our drinks are brewed and slowly fermented, which means the sugar is mostly transformed into flavour, natural bubbles and all the complexity that makes a drink actually interesting.\nWe work with organic ingredients, source locally where we can, and often use things that would normally be thrown away, like fruit peels, and turn them into something genuinely good. The result is a drink that feels fresh, a bit different, and easy to come back to.\nTo see what drinks are available click here."
   },
   {
     "objectID": "drinks_ginger_beer.html",
@@ -39,14 +39,14 @@
     "href": "drinks_kombucha.html",
     "title": "Kombucha G&T",
     "section": "",
-    "text": "Kombucha second fermented with Ginger and Turmeric Ingredients: Green Tea, Sugar, Ginger, Turmeric"
+    "text": "Kombucha second fermented with Ginger and Turmeric Ingredients: Green Tea, Sugar, Ginger, Turmeric\nExample label containing essential information for menus. QR code links to the testing for each batch for transparency."
   },
   {
     "objectID": "drinks_kombucha.html#kombucha-gt",
     "href": "drinks_kombucha.html#kombucha-gt",
     "title": "Kombucha G&T",
     "section": "",
-    "text": "Kombucha second fermented with Ginger and Turmeric Ingredients: Green Tea, Sugar, Ginger, Turmeric"
+    "text": "Kombucha second fermented with Ginger and Turmeric Ingredients: Green Tea, Sugar, Ginger, Turmeric\nExample label containing essential information for menus. QR code links to the testing for each batch for transparency."
   },
   {
     "objectID": "products.html",
@@ -63,39 +63,39 @@
     "text": "Kombucha second fermented with Ginger and Turmeric Ingredients: Green Tea, Sugar, Ginger, Turmeric"
   },
   {
-    "objectID": "products.html#tepache",
-    "href": "products.html#tepache",
-    "title": "Drinks",
-    "section": "Tepache",
-    "text": "Tepache\nA traditional Mexican drink made from the peel of pineapple Ingredients: Water, Pineapple Peels**, Sugar, Cinnamon, Cloves"
-  },
-  {
-    "objectID": "products.html#peely-spicy-lemon-kefir",
-    "href": "products.html#peely-spicy-lemon-kefir",
-    "title": "Drinks",
-    "section": "Peely Spicy Lemon Kefir",
-    "text": "Peely Spicy Lemon Kefir\nWater kefir second fermented with lemon peel and madame jeanette peppers Ingredients: Water,lemon peel**,madame jeanette peppers"
-  },
-  {
     "objectID": "products.html#boosted-ginger-beer",
     "href": "products.html#boosted-ginger-beer",
     "title": "Drinks",
     "section": "Boosted Ginger Beer",
-    "text": "Boosted Ginger Beer\nA blend of wild ginger beer, water kefir and kombucha Ingredients: Ginger, Suagr, Green tea\n**removed after fermentation"
+    "text": "Boosted Ginger Beer\nA blend of wild ginger beer, water kefir and kombucha."
+  },
+  {
+    "objectID": "products.html#peely-spicy-lemon-kefir-coming-soon",
+    "href": "products.html#peely-spicy-lemon-kefir-coming-soon",
+    "title": "Drinks",
+    "section": "Peely Spicy Lemon Kefir (coming soon)",
+    "text": "Peely Spicy Lemon Kefir (coming soon)\nWater kefir second fermented with lemon peel and madame jeanette peppers."
+  },
+  {
+    "objectID": "products.html#tepache-coming-soon",
+    "href": "products.html#tepache-coming-soon",
+    "title": "Drinks",
+    "section": "Tepache (coming soon)",
+    "text": "Tepache (coming soon)\nA traditional Mexican drink made from the peel of pineapple."
   },
   {
     "objectID": "drinks_tepache.html",
     "href": "drinks_tepache.html",
     "title": "Tepache",
     "section": "",
-    "text": "A traditional Mexican drink fermented from the peel of pineapple.\nIngredients: Water, Pineapple Peels**, Sugar, Cinnamon, Cloves\n**removed after fermentation\nExample label:"
+    "text": "A traditional Mexican drink fermented from the peel of pineapple.\n\n\nwater, sugar, pineapple peel+, cinamon stick+, cloves +removed after fermentation * = organically certified ingredient\n\n\n\nwater, suiker, ananasschil+, kaneelstokje+, kruidnagels +verwijderd na fermentatie * = biologische oorsprong\nExample label:"
   },
   {
-    "objectID": "drinks_tepache.html#tepache",
-    "href": "drinks_tepache.html#tepache",
+    "objectID": "drinks_tepache.html#coming-later",
+    "href": "drinks_tepache.html#coming-later",
     "title": "Tepache",
     "section": "",
-    "text": "A traditional Mexican drink fermented from the peel of pineapple.\nIngredients: Water, Pineapple Peels**, Sugar, Cinnamon, Cloves\n**removed after fermentation\nExample label:"
+    "text": "A traditional Mexican drink fermented from the peel of pineapple.\n\n\nwater, sugar, pineapple peel+, cinamon stick+, cloves +removed after fermentation * = organically certified ingredient\n\n\n\nwater, suiker, ananasschil+, kaneelstokje+, kruidnagels +verwijderd na fermentatie * = biologische oorsprong\nExample label:"
   },
   {
     "objectID": "news/index.html",
