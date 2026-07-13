@@ -14,11 +14,67 @@
     "text": "Final tweaks to the recipes are taking place and drinks will be available in a Utrecht Cafe near you soon."
   },
   {
-    "objectID": "news/index.html",
-    "href": "news/index.html",
-    "title": "News",
+    "objectID": "news/2026-04-bottles-cans.html",
+    "href": "news/2026-04-bottles-cans.html",
+    "title": "Bottle and can sustainability",
     "section": "",
-    "text": "Supplying this week\n\n\nSupplying this week.\n\n\n\n\n\nJul 2, 2026\n\n\n\n\n\n\n\nLaunching soon\n\n\nLaunching soon.\n\n\n\n\n\nMay 10, 2026\n\n\n\n\n\n\n\nSunshine into tea\n\n\nUsing abundent energy to make the tea\n\n\n\n\n\nApr 10, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Recent statiegeld legislation in Netherlands is a real step forward in encouraging people to\nBeer and cider is served in reusable kegs and poured in glasses, meaing there is almost no waste stream. But such large kegs mean trucks are needed to get it to market and businesses need to have lots of space for them.\nPlastic bottles can Oxebar have developed\nIn 2024 it was estimated that"
+  },
+  {
+    "objectID": "news/2026-04-bottles-cans.html#parameter-comparison-table",
+    "href": "news/2026-04-bottles-cans.html#parameter-comparison-table",
+    "title": "Bottle and can sustainability",
+    "section": "Parameter comparison table",
+    "text": "Parameter comparison table\n\n\n\n\n\n\n\n\n\n\n\nStudy\nFormats compared\nReuse cycles assumed\nReconditioning / washing inventory\nTransport assumptions\nHeadline result\n\n\n\n\nAmienyo et al. 2013\nGlass 0.75 L, Al can 0.33 L, PET 0.5/2 L (single-use, cradle-to-grave)\nSensitivity: glass reused up to a few times\nNot the focus\nIncludes shipping cans abroad for recycling\nPackaging = 59–77% of total impact; glass highest GWP, PET lowest; reusing glass ~3× makes it comparable to single-use PET / cans\n\n\nLandi et al. 2020\nRefillable vs single-use glass (1 L mineral water)\nCites 20–30 rotations; ~30 common in literature\nHot-water + detergent/acid/disinfectant wash\n98.69% return rate; ~1.31% loss per delivery; benefits shown ≤250 km\nRefillable beer (20 reuses, 250 km): −79% climate, −76% primary energy vs single-use glass\n\n\nLe Féon et al. 2024\nReusable vs single-use glass (new beverage)\nModelled per-cycle; 1% rejected at collection\n0.5 L water + 0.008 kg soda ash + 0.01 kWh electricity per bottle\n19 t lorry to cleaning facility 100 km away\nA badly configured returnable system can slightly exceed single-use; 55 parameters; return distance + rotations decisive\n\n\nMorgan et al. 2022\nSingle-use glass vs Al can vs reusable glass; steel keg vs PET keg (7 breweries)\nReusable glass pool\nIncluded in reusable-glass scenario\nVan distribution a hotspot; lorry sharing cuts impact\nReusable glass or can beat single-use glass; PET kegs worse than steel kegs at short distance\n\n\nMarrucci et al. 2024\nPET keg 20 L, glass 0.33 L, Al can 0.33 L (all one-way)\nNone (all non-reusable)\nn/a\nSensitivity on load factor + waste distance\nOne-way PET keg ~90% lower footprint than one-way glass/can (weights: glass ~60.6 kg/hl vs keg 1.5, can 5.5)\n\n\nNiero & Olsen 2016\nAl can closed-loop (UBC) vs mixed-scrap recycling\nn/a (recycling study)\nn/a\nn/a\nClosed-loop can-to-can lower climate impact; alloying elements limit true closed loop\n\n\nZWE meta-analysis 2020\n32 LCAs, all formats\nVaries\nVaries\nTransport = main reusable hotspot\nReusable glass: −85% vs single-use glass, −75% vs single-use PET, −57% vs can; breakeven 2–3 cycles"
+  },
+  {
+    "objectID": "news/2026-04-bottles-cans.html#a.-cross-material-foundational-lcas",
+    "href": "news/2026-04-bottles-cans.html#a.-cross-material-foundational-lcas",
+    "title": "Bottle and can sustainability",
+    "section": "A. Cross-material foundational LCAs",
+    "text": "A. Cross-material foundational LCAs\nAmienyo, D., Gujba, H., Stichnothe, H. & Azapagic, A. (2013). Life cycle environmental impacts of carbonated soft drinks. International Journal of Life Cycle Assessment, 18(1), 77–92. DOI: 10.1007/s11367-012-0459-y ✓\nThe most-cited reference point in the field. Cradle-to-grave, UK context. Establishes that packaging dominates the footprint (59–77% of most impact categories), that single-use glass has the highest GWP and PET the lowest of the three, and — via sensitivity analysis — that reusing glass roughly three times brings it level with single-use PET and aluminium cans. Independent (academic).\nBrock, A. & Williams, I. (2020). Life Cycle Assessment of Beverage Packaging. Detritus, 13, 47–61. (Open access via eprints.soton.ac.uk/447477; verify DOI.)\nBroader, more recent comparative ranking across eleven CML impact categories; readable, and useful for the policy framing (single-use taxes as a lever toward reusables). Independent (academic)."
+  },
+  {
+    "objectID": "news/2026-04-bottles-cans.html#b.-glass-reuse-vs-recycling-with-reconditioning-inventories",
+    "href": "news/2026-04-bottles-cans.html#b.-glass-reuse-vs-recycling-with-reconditioning-inventories",
+    "title": "Bottle and can sustainability",
+    "section": "B. Glass — reuse vs recycling, with reconditioning inventories",
+    "text": "B. Glass — reuse vs recycling, with reconditioning inventories\nLandi et al. (2020). Reusing glass bottles in Italy: A life cycle assessment evaluation. Procedia CIRP, 90, 192–197. DOI: 10.1016/j.procir.2020.01.094 ✓\nYour rotation-threshold anchor. Models a real refillable water system (98.69% return rate, ~1.31% loss per delivery) and reviews European evidence that a refillable beer system at 20 reuses over 250 km delivers roughly −79% climate change and −76% primary energy versus single-use glass. Independent (academic).\nLe Féon, S., Gésan-Guiziou, G., Yannou-Le Bris, G., Aubin, J. & Pénicaud, C. (2024). Life cycle assessment based optimization of scenarios of reusable glass bottles using context-specific key parameters. Cleaner Environmental Systems, 2024. ScienceDirect PII S2666789424000631; open access on HAL: hal.inrae.fr/hal-04705714v1 (verify DOI).\nThe paper to mine for realistic reconditioning numbers. Explicit cleaning inventory of 0.5 L water, 0.008 kg soda ash and 0.01 kWh electricity per bottle, a 1% reject rate at collection, and a 19 t lorry to a cleaning facility 100 km away, across 55 input parameters. Its key contribution: a poorly configured returnable system can come out slightly worse than single-use, correcting the idealised generic assumptions in older work. Independent (academic).\nVan Doorsselaer, K. & Lox, F. (1999). LCA comparison between recycle and reuse of glass beer bottles. (ResearchGate 302009172; verify DOI.)\nOlder but foundational for the beer-bottle reuse-vs-recycle question specifically; models different reuse percentages across the full chain (washing, filling, pasteurising, wastewater). Independent (academic)."
+  },
+  {
+    "objectID": "news/2026-04-bottles-cans.html#c.-aluminium-and-pet",
+    "href": "news/2026-04-bottles-cans.html#c.-aluminium-and-pet",
+    "title": "Bottle and can sustainability",
+    "section": "C. Aluminium and PET",
+    "text": "C. Aluminium and PET\nNiero, M. & Olsen, S.I. (2016). Circular economy: To be or not to be in a closed product loop? A LCA of aluminium cans with inclusion of alloying elements. Resources, Conservation & Recycling. ScienceDirect PII S0921344916301604 (verify DOI).\nExplains why the ~5%-of-primary-energy remelting figure for aluminium doesn’t fully close the loop: alloying elements and collection losses mean primary metal keeps entering. Closed-loop can-to-can beats mixed-scrap recycling. Independent (academic).\nTamburini et al. (2021). Plastic (PET) vs bioplastic (PLA) or refillable aluminium bottles — what is the most sustainable choice for drinking water? A life-cycle analysis. Environmental Research, 2021. ScienceDirect PII S0013935121002681 (verify DOI).\nKey for the reusable-vs-single-use logic: a single PET bottle has the lowest production impact of any material, but over a year of use the single-use PET footprint balloons while a refillable’s per-year production impact becomes negligible regardless of material — washing method then dominates. Independent (academic).\nNAPCOR / Franklin Associates (2023). PET Life Cycle Assessment Report. napcor.com/pet-life-cycle-assessment-report-2023.\nFinds single-use PET better than cans and glass for CSDs and still water (US). Industry-funded (PET trade association) — bounding case, not neutral.\nThe Aluminum Association / John Beath Environmental (2023). Aluminum Cans Leading the Way to Limit Carbon Impact. aluminum.org.\nMeta-review putting cans similar to PET and better than glass; reports GWP ranges of 0.11–0.51 (Al can), 0.39–1.05 (glass), 0.11–0.65 (PET) kg CO₂e/L. Industry-funded (aluminium) — bounding case in the opposite direction."
+  },
+  {
+    "objectID": "news/2026-04-bottles-cans.html#d.-kegs-and-brewery-specific-most-relevant-to-less-wasted",
+    "href": "news/2026-04-bottles-cans.html#d.-kegs-and-brewery-specific-most-relevant-to-less-wasted",
+    "title": "Bottle and can sustainability",
+    "section": "D. Kegs and brewery-specific (most relevant to Less Wasted)",
+    "text": "D. Kegs and brewery-specific (most relevant to Less Wasted)\nMorgan, D.R., Styles, D. & Lane, E.T. (2022). Packaging choice and coordinated distribution logistics to reduce the environmental footprint of small-scale beer value chains. Journal of Environmental Management, 307, 114591. DOI: 10.1016/j.jenvman.2022.114591 ✓ (open access, CC licence)\nThe single most on-point paper for you. LCA of seven micro-breweries (footprints 727–1336 g CO₂e/L). Switching single-use glass to reusable glass or cans cut Brewery E’s footprint ~27% each; reusable glass was best for four of seven breweries. Critically: replacing steel kegs with PET kegs increases footprints for short-distance delivery, with savings only in long-distance van scenarios — direct support for keeping a reusable steel keg loop in a short-radius network. Independent (academic), open access.\nMarrucci, L. et al. (2024). Identifying the most sustainable beer packaging through a Life Cycle Assessment. Science of the Total Environment, 948, 174941. DOI: 10.1016/j.scitotenv.2024.174941 ✓\nApparent counterpoint to Morgan — finds draught beer in PET kegs ~90% lower footprint than other formats — but note the crucial caveat that all formats in this study are one-way / non-reusable, so it compares a one-way PET keg to one-way glass and cans, not to a reusable steel keg. Its packaging weights (glass ~60.6 kg/hl vs PET keg 1.5, can 5.5) neatly quantify the glass transport penalty. Independent (academic).\nFrom Circular to Linear? Assessing the Life Cycle Environmental and Economic Sustainability of Steel and Plastic Beer Kegs (2022). Circular Economy and Sustainability (Springer). DOI: 10.1007/s43615-021-00142-w ✓\nCovers both environmental and cost sides of the steel-vs-plastic keg choice, and notes plastic kegs improve markedly where a local closed-loop PET recycling route exists. Independent (academic)."
+  },
+  {
+    "objectID": "news/2026-04-bottles-cans.html#e.-reviews-meta-analysis-and-dutch-context",
+    "href": "news/2026-04-bottles-cans.html#e.-reviews-meta-analysis-and-dutch-context",
+    "title": "Bottle and can sustainability",
+    "section": "E. Reviews, meta-analysis and Dutch context",
+    "text": "E. Reviews, meta-analysis and Dutch context\nLCA of reusable food and beverage packaging systems: a proposal of good practice (2025). Journal of Cleaner Production. ScienceDirect PII S0959652625005578 (verify DOI).\nMethodological guide: identifies number of reuse cycles and reconditioning configuration (washing, refilling, return logistics) as the two central parameters. Use this to decide which assumptions to defend in your own model. Independent (academic).\nZero Waste Europe / Reloop (2020). Reusable vs single-use packaging: a review of environmental impacts (synthesis of 32 LCAs).\nAggregate figures: reusable glass −85% vs single-use glass, −75% vs single-use PET, −57% vs cans; breakeven after 2–3 reuse cycles; transport the dominant reusable hotspot. Advocacy-commissioned grey literature — but aggregates peer-reviewed inputs and its breakeven figure aligns with the academic work.\nCE Delft (2018/2021). LCA: recycling of household plastic packaging waste. ce.nl/en/publications/1208.\nDutch policy-grade grey literature (not journal peer-review, but ISO-consistent and the standard NL reference). Concludes that at-source and post-consumer plastic separation plus a deposit on large PET all beat incineration environmentally. CE Delft’s publications library is the place to look for Dutch deposit-return and reuse-system inventories.\nDutch context sources (authoritative-for-NL, not peer-reviewed): Milieu Centraal — packaging glass at 60% recycled content saves only ~15% energy vs new glass, because remelting cullet still needs ~1,300 °C; washing a bottle uses ~600 mL water vs ~2 L to make a new one (Transitieagenda Consumptiegoederen / Mission Reuse pilot). The Dutch reuse loop in practice is essentially the shared beer bottle (Bruine Nederlandse Retourfles), refilled up to ~40× over ~8 years; most other consumer glass goes via the glasbak and is melted, not washed and refilled."
+  },
+  {
+    "objectID": "news/2026-04-bottles-cans.html#bottom-line-for-the-keg-model",
+    "href": "news/2026-04-bottles-cans.html#bottom-line-for-the-keg-model",
+    "title": "Bottle and can sustainability",
+    "section": "Bottom line for the keg model",
+    "text": "Bottom line for the keg model\nThe peer-reviewed weight of evidence supports a reusable steel keg in a short-radius local loop over both single-use anything and one-way PET kegs (Morgan et al. 2022 is explicit on the steel-vs-PET-keg point at short distance). The single-use-vs-refillable split matters more than the material: once a refillable clears its rotation threshold (breakeven ~2–3 cycles for glass per ZWE; kegs far exceed this), the container material stops driving the result and washing energy plus return distance take over (Le Féon et al. 2024; Tamburini et al. 2021). Those two variables — washing inventory and collection radius — are the only ones that could erode a keg loop’s advantage, and both are favourable for a tight local café network."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Less Wasted",
+    "section": "",
+    "text": "Less Wasted\n\n\nFermented naturally low-alcohol drinks made in Utrecht\n\n\n\n\n\n\n\nLess Wasted makes fermented low alcohol drinks for people who want something better to drink, without overthinking it. Not overloaded with sugar, not full of artificial sweeteners, and definitely not “free” versions of other drinks.\nInstead of mixing ingredients together at the end, we start at the beginning. Our drinks are brewed and slowly fermented, which means the sugar is mostly transformed into flavour, natural bubbles and all the complexity that makes a drink actually interesting.\nWe work with organic ingredients, source locally where we can, and often use things that would normally be thrown away, like fruit peels, and turn them into something genuinely good. The result is a drink that feels fresh, a bit different, and easy to come back to.\nTo see what drinks are available click here."
   },
   {
     "objectID": "drinks_kombucha.html",
@@ -42,11 +98,11 @@
     "text": "Kombucha G&T\nThe original Kombucha is second fermented with fresh Ginger and fresh Turmeric for 3-5 days, bottled and refrigerated to develop fizz.\n\nIngredients\ngreen tea*, sugar*, ginger*, turmeric*, kombucha culture* = organically certified ingredient\n\n\nIngredienten\ngroene thee*, suiker*, gember*, kurkuma*, kombucha-cultuur* = biologische oorsprong\nExample label:\n\nPrice: 4 litres €20"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Less Wasted",
+    "objectID": "news/index.html",
+    "href": "news/index.html",
+    "title": "News",
     "section": "",
-    "text": "Less Wasted\n\n\nFermented naturally low-alcohol drinks made in Utrecht\n\n\n\n\n\n\n\nLess Wasted makes fermented low alcohol drinks for people who want something better to drink, without overthinking it. Not overloaded with sugar, not full of artificial sweeteners, and definitely not “free” versions of other drinks.\nInstead of mixing ingredients together at the end, we start at the beginning. Our drinks are brewed and slowly fermented, which means the sugar is mostly transformed into flavour, natural bubbles and all the complexity that makes a drink actually interesting.\nWe work with organic ingredients, source locally where we can, and often use things that would normally be thrown away, like fruit peels, and turn them into something genuinely good. The result is a drink that feels fresh, a bit different, and easy to come back to.\nTo see what drinks are available click here."
+    "text": "Bottle and can sustainability\n\n\nAre recycled bottles and cans really that sustainable?\n\n\n\n\n\nJul 2, 2026\n\n\n\n\n\n\n\nSupplying this week\n\n\nSupplying this week.\n\n\n\n\n\nJul 2, 2026\n\n\n\n\n\n\n\nLaunching soon\n\n\nLaunching soon.\n\n\n\n\n\nMay 10, 2026\n\n\n\n\n\n\n\nSunshine into tea\n\n\nUsing abundent energy to make the tea\n\n\n\n\n\nApr 10, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "news/2026-05-green-energy.html",
