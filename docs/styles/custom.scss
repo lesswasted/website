@@ -17,6 +17,7 @@ $gold: #e8e3d3;
 /* -- fonts * --*/
 h1, .h1 {
    font-family: 'Patrick Hand', sans-serif;
+   src: url("/fonts/patrick-hand-v19-latin-regular.woff2") format("woff2");
    font-weight: normal;
    text-transform: uppercase;
  }
@@ -384,6 +385,7 @@ div.gradient-text {
 
 .brand-tagline {
   font-family: "Patrick Hand", cursive;
+  src: url("/fonts/patrick-hand-v19-latin-regular.woff2") format("woff2");
   font-size: clamp(16px, 3vw, 24px);
   letter-spacing: 3px;
   text-indent: 6px;  /* offsets the trailing letter-space so it stays centred */
@@ -400,6 +402,7 @@ div.gradient-text {
 
 .brand-subtitle {
   font-family: "Patrick Hand", cursive;
+  src: url("/fonts/patrick-hand-v19-latin-regular.woff2") format("woff2");
   font-size: clamp(15px, 2.6vw, 20px);
   line-height: 1.4;
   letter-spacing: 2px;
@@ -424,6 +427,7 @@ div.gradient-text {
   .lw-section {
     background: var(--cream);
     font-family: "Patrick Hand", cursive;
+    src: url("/fonts/patrick-hand-v19-latin-regular.woff2") format("woff2");
     color: var(--text);
     padding: 48px 24px 64px;
     min-height: 100vh;
@@ -476,6 +480,7 @@ div.gradient-text {
     background: var(--green);
     color: white;
     font-family: "Patrick Hand", cursive;
+    src: url("/fonts/patrick-hand-v19-latin-regular.woff2") format("woff2");
     font-weight: 400;
     font-size: 30px;
     display: flex;
@@ -494,6 +499,7 @@ div.gradient-text {
 
   .step-title {
     font-family: "Patrick Hand", cursive;
+    src: url("/fonts/patrick-hand-v19-latin-regular.woff2") format("woff2");
     font-weight: 600;
     font-size: 22px;
     letter-spacing: 0.12em;
@@ -534,6 +540,7 @@ div.gradient-text {
 
   .why-title {
     font-family: "Patrick Hand", cursive;
+    src: url("/fonts/patrick-hand-v19-latin-regular.woff2") format("woff2");
     font-weight: 600;
     font-size: 42px;
     letter-spacing: 0.12em;
