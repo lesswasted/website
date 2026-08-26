@@ -1,0 +1,26 @@
+---
+title: ""
+format:
+  html:
+    css: styles/custom.scss
+    page-layout: custom
+    include-in-header:
+      text: |
+        <link href="https://fonts.googleapis.com/css2?family=Albert+Sans:ital,wght@0,100..900;1,100..900&family=Karla:ital,wght@0,200..800;1,200..800&family=Patrick+Hand&display=swap" rel="stylesheet">
+---
+```{=html}
+<style>
+.shipping-content {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 36px 0;
+}
+</style>
+<div class="lw-section">
+  <div class="shipping-content">
+    <h2 class="drinks-title">Shipping</h2>
+    <p class="brand-subtitle">Shipping free within Utrecht and €6 flat rate regardless of order size for the rest of the Netherlands. Unfortunately we don't ship outside of the Netherlands yet.</p>
+  </div>
+  <div class="tagline">Real drinks. No compromise.</div>
+</div>
+```
